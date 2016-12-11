@@ -7,3 +7,5 @@ between two points.
 
 To do this, we use ISOMAP and embed the points in the first two coordinates
 found.
+
+Please download and open maps.htm.
